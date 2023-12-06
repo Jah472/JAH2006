@@ -1,0 +1,7 @@
+<?php
+ninclude'connect.php';
+
+if(isset($_GET['did])){
+    $did=$_GET['did];
+    
+}
